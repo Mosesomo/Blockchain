@@ -15,6 +15,8 @@ A block in a blockchain is a combination of three main components:
 
 How Does Blockchain Technology Work?
 
+![download](https://github.com/Mosesomo/Blockchain/assets/107793010/9af2b33e-5d78-4384-947f-99817026ce0c)
+
 -------------------------------------------------
 In recent years, you may have noticed many businesses around the world integrating Blockchain technology. But how exactly does Blockchain technology work? Is this a significant change or a simple addition? The advancements of Blockchain are still young and have the potential to be revolutionary in the future; so, let’s begin demystifying this technology.
 
